@@ -36,8 +36,8 @@ export default function Footer() {
                     </div>
                     <div className="item links">
                         <h2>Kontakty</h2>
-                        <a href='tel:777777777' target='_blank' rel="noopener noreferrer"><img src='/images/footerphone.svg' alt='Telefonní číslo redesigner' width={25} height={25} draggable="false" loading="lazy" placeholder="blur" /> +420 703 676 567</a>
-                        <a href='mailto:info@pixelforge.cz' target='_blank' rel="noopener noreferrer"><img src='/images/footeremail.svg' alt='E-mail redesigneru' width={25} height={25} draggable="false" loading="lazy" placeholder="blur" /> info@bezvaizolace.cz</a>
+                        <a href='tel:777777777' target='_blank' rel="noopener noreferrer"><img src='/images/footerphone.svg' alt='' width={25} height={25} draggable="false" loading="lazy" placeholder="blur" /> +420 777 777 777</a>
+                        <a href='mailto:info@pixelforge.cz' target='_blank' rel="noopener noreferrer"><img src='/images/footeremail.svg' alt='' width={25} height={25} draggable="false" loading="lazy" placeholder="blur" /> info@pixelforge.cz</a>
                     </div>
                 </div>
                 <div className="bottom-line"></div>
